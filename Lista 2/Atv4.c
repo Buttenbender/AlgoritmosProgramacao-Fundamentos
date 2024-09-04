@@ -17,7 +17,7 @@ int main() {
     printf("Digite a sua nota do Grau B: ");
     scanf("%lf", &nota2);
 
-    notaFinal = (nota1 * (1.0 / 3.0)) + (nota2 * (2.0 / 3.0));
+    notaFinal = (nota1 + 2 * nota2) / 3;
 
     printf("A sua média final é: %2.lf\n", notaFinal);
 
