@@ -1,6 +1,8 @@
 /*
 * Programa: Atv5.c
-* Descrição: calcula quantos litros dá para abastecer considerando o valor do litro e o valor disponível para gastar
+* Descrição: Um motorista deseja encher o tanque do seu carro com gasolina. Escreva um algoritmo para
+* ler o preço do litro da gasolina e o valor que o motorista tem disponível para abastecer.
+* Calcule quantos litros ele conseguiu colocar no tanque e exiba na tela.
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 02/09/2024
 * Última modificação: 02/09/2024
