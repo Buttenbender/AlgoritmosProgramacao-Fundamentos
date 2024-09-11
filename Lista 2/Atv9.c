@@ -1,6 +1,8 @@
 /*
 * Programa: Atv9.c
-* Descrição: aplica desconto ao valor de uma compra
+* Descrição: Durante uma liquidação uma loja resolveu dar quinze por cento de desconto nas compras
+* feitas pelos clientes. Faça um programa que leia o valor da compra e escreva o valor da
+* compra com o desconto
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 02/09/2024
 * Última modificação: 02/09/2024
