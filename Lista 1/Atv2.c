@@ -1,6 +1,7 @@
 /*
 * Programa: Atv2.c
-* Descrição: Recebe um nome e imprime um "Bem-vindo" para o nome
+* Descrição: Escreva um programa em linguagem C que solicite o nome do usuário e, em seguida,
+* imprima uma mensagem de boas-vindas na tela, utilizando o nome fornecido.
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 29/08/2024
 * Última modificação: 29/08/2024
