@@ -1,6 +1,8 @@
 /*
 * Programa: Atv4.c
-* Descrição: Permite que um aluno calcule a sua média final somando a nota do grau A e a do grau B
+* Descrição: Faça um algoritmo que permita ao aluno calcular a sua média final na Unisinos. Leia a nota do
+* grau A e do grau B e escreva o resultado na tela. Lembrando que o Grau A vale 1/3 e o Grau
+* B 2/3
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 02/09/2024
 * Última modificação: 02/09/2024
