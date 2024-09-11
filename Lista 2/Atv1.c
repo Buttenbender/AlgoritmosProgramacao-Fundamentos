@@ -1,6 +1,7 @@
 /*
 * Programa: Atv1.c
-* Descrição: lê uma quantidade de tempo em minutos e transforma em segundos
+* Descrição: Faça um algoritmo que leia uma quantidade de tempo em minutos e escreva o tempo
+* equivalente em segundos na tela
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 02/09/2024
 * Última modificação: 02/09/2024
