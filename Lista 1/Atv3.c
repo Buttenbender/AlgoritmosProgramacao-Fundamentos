@@ -1,6 +1,14 @@
 /*
 * Programa: Atv3.c
-* Descrição: Pergunta qual o nome do Batman e analisa se a resposta está correta ou errada
+* Descrição: Escreva um programa em C que realize o seguinte procedimento:
+* a. Imprima na tela a seguinte questão: Qual é o verdadeiro nome do super-herói Batman?
+* b. Apresente cinco alternativas para o usuário, cada uma em uma linha: a) Bruce Wayne b)
+* Clark Kent c) Peter Parker d) Tony Stark e) Steve Rogers
+* c. Armazene a letra correspondente à resposta correta (‘a’) em uma variável.
+* d. Solicite ao usuário que digite sua resposta, e a armazene em uma variável.
+* e. Ao final, o programa deve exibir na tela a resposta do usuário e a resposta correta. Por
+* exemplo, se o usuário digitou como resposta a alternativa ‘d’, a mensagem seria esta:
+* Você respondeu alternativa d. A resposta correta é a alternativa a
 * Autor: João Pedro Bütenbender da Silva
 * Data de criação: 29/08/2024
 * Última modificação: 29/08/2024
