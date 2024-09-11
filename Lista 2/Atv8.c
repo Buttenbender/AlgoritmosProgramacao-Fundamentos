@@ -1,6 +1,7 @@
 /*
 * Programa: Atv8.c
-* Descrição: converte temperatura de celsius para fahrenheit
+* Descrição: Um usuário deseja converter a temperatura de Celsius para Fahrenheit. Escreva um programa
+* que leia a temperatura em Celsius e exiba a temperatura equivalente em Fahrenheit.
 * Autor: João Pedro Büttenbender da Silva
 * Data de criação: 02/09/2024
 * Última modificação: 02/09/2024
