@@ -1,6 +1,7 @@
 /*
 * Programa: Atv4.c
-* Descrição: Tornar a atividade 3 mais flexível
+* Descrição: Como poderíamos tornar o programa acima mais genérico, de maneira que pudéssemos
+* registrar qualquer questão objetiva com 5 alternativas?
 * Autor: João Pedro Bütenbender da Silva
 * Data de criação: 29/08/2024
 * Última modificação: 29/08/2024
