@@ -1,3 +1,11 @@
+/*
+* Programa: Atv4.c
+* Descrição: Crie um programa que verifica se um número inteiro informado pelo usuário é divisível por 3
+* Autor: João Pedro Büttenbender da Silva
+* Data de criação: 24/09/2024
+* Última modificação: 24/09/2024
+*/
+
 #include <stdio.h>
 
 int main() {
