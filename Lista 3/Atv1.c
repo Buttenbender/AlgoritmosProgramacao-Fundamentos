@@ -1,3 +1,12 @@
+/*
+* Programa: Atv1.c
+* Descrição: Escreva um programa que leia dois números e efetue uma divisão, mas somente se o divisor for
+* diferente de zero; quando isto ocorrer, é mostrada uma mensagem de erro apropriada
+* Autor: João Pedro Büttenbender da Silva
+* Data de criação: 24/09/2024
+* Última modificação: 24/09/2024
+*/
+
 #include <stdio.h>
 
 int main() {
