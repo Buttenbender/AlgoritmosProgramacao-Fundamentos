@@ -1,3 +1,12 @@
+/*
+* Programa: Atv12.c
+* Descrição: A confederação brasileira de natação irá promover eliminatórias para o próximo mundial. Fazer um
+* algoritmo que receba a idade de um nadador e imprima a sua categoria segundo a tabela
+* Autor: João Pedro Büttenbender da Silva
+* Data de criação: 24/09/2024
+* Última modificação: 24/09/2024
+*/
+
 #include <stdio.h>
 
 int main() {
