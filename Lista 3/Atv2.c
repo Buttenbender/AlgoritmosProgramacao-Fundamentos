@@ -1,3 +1,12 @@
+/*
+* Programa: Atv2.c
+* Descrição: Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é menor que A
+* + C
+* Autor: João Pedro Büttenbender da Silva
+* Data de criação: 24/09/2024
+* Última modificação: 24/09/2024
+*/
+
 #include <stdio.h>
 
 int main() {
