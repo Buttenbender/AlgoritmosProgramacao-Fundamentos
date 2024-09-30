@@ -1,3 +1,12 @@
+/*
+* Programa: Atv5.c
+* Descrição: Faça um algoritmo para receber um número qualquer do usuário e informar na tela se é par ou se
+* é ímpar
+* Autor: João Pedro Büttenbender da Silva
+* Data de criação: 24/09/2024
+* Última modificação: 24/09/2024
+*/
+
 #include <stdio.h>
 
 int main() {
