@@ -1,11 +1,37 @@
 # Exercício: Corrida de Hamsters
-
-## Equipe
- - João Pedro Büttenbender da Silva
-
-## Instruções de Uso
-Para usar o projeto Corrida de Hamsters, siga essas etapas:
+## Autor
+- João Pedro Büttenbender da Silva
+## Descrição
 ```
-Primeiro você precisa iniciar o projeto, isso vai depender de onde você irá abrir ele.
-Após isso a corrida vai iniciar automáticamente e você deverá apertaro botão Enter para ir para a próxima rodada.
+Este programa simula uma corrida entre dois hamsters em um tabuleiro com 12 posições.
+A cada turno, um número aleatório é sorteado para determinar o movimento de cada hamster,
+que pode avançar, retroceder ou permanecer na mesma posição. A corrida continua até que um
+dos hamsters (ou ambos) alcancem ou ultrapassem a posição 12.
+```
+## Exemplo de resultado esperado
+```
+H1:
+H2:
+Pressione Enter para continuar para o próximo turno...
+H1: *
+H2: *
+Pressione Enter para continuar para o próximo turno...
+H1:
+H2: **
+Pressione Enter para continuar para o próximo turno...
+H1: *
+H2:
+Pressione Enter para continuar para o próximo turno...
+H1: *****
+H2: *
+Pressione Enter para continuar para o próximo turno...
+H1: *****
+H2: **
+Pressione Enter para continuar para o próximo turno...
+...
+...
+H1: ************
+H2: ***
+Pressione Enter para continuar para o próximo turno...
+Hamster 1 venceu!
 ```
