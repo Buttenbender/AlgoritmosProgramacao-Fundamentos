@@ -19,7 +19,7 @@ Escolha sua opção: 1
 --- Digite as Seguintes Informações ---
 
 População Inicial de Bactérias: 100
-Taxa de Crescimento: 10
+Taxa de Crescimento (em porcentagem): 10
 Número de Ciclos: 5
 
 Ciclo 1: População = 77 (Condição Ambiental: Alta Temperatura)
